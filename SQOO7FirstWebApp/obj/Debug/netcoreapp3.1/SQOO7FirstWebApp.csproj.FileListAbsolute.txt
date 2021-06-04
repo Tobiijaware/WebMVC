@@ -1,0 +1,138 @@
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.exe
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.deps.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.runtimeconfig.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.runtimeconfig.dev.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.Views.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.Views.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.csprojAssemblyReference.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.AssemblyInfoInputs.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.AssemblyInfo.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorAssemblyInfo.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorAssemblyInfo.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.TagHelpers.input.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.TagHelpers.output.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorCoreGenerate.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.Views.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SQOO7FirstWebApp.StaticWebAssets.Manifest.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SQOO7FirstWebApp.StaticWebAssets.xml
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.genruntimeconfig.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.csproj.CopyComplete
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.exe
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.deps.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.runtimeconfig.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.runtimeconfig.dev.json
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.Views.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQOO7FirstWebApp.Views.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.AssemblyInfoInputs.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.AssemblyInfo.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorAssemblyInfo.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorAssemblyInfo.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.TagHelpers.input.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.TagHelpers.output.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorCoreGenerate.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccountConfirmation.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmPasswordReset.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegistrationConfirmationPage.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmationPage.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Error\NotFoundPage.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Error\_Layout.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthNavPartial.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.Views.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.csproj.CopyComplete
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SQOO7FirstWebApp.StaticWebAssets.Manifest.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SQOO7FirstWebApp.StaticWebAssets.xml
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.dll
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.pdb
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.genruntimeconfig.cache
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\cidos\Source\Mentorship and Training\SQ007\Week 8\SQOO7FirstWebApp\SQOO7FirstWebApp\obj\Debug\netcoreapp3.1\SQOO7FirstWebApp.csprojAssemblyReference.cache

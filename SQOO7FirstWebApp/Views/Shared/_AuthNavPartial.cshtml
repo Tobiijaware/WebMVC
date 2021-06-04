@@ -1,0 +1,26 @@
+﻿@{ 
+    var returnUrl = ViewBag.ReturnUrl;
+    if (!string.IsNullOrWhiteSpace(returnUrl))
+        returnUrl = "";
+}
+@if (ViewBag.Title == "Login")
+{
+    <div class="d-flex justify-content-between">
+        <a asp-action="Index" asp-controller="Home">Home</a>
+        <a asp-action="Register" asp-controller="Account">Register</a>
+    </div>
+}
+else if (ViewBag.Title == "Register")
+{
+    <div class="d-flex justify-content-between">
+        <a asp-action="Index" asp-controller="Home">Home</a>
+        <a asp-action="Login" asp-controller="Account" >Login</a>
+    </div>
+}
+else
+{
+    <div class="d-flex justify-content-between">
+        <a asp-action="Index" asp-controller="Home">Home</a>
+        <a asp-action="Login" asp-controller="Account" >Login</a>
+    </div>
+}

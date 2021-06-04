@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Access Dinied";
+    Layout = "_Layout.cshtml";
+    var returnUrl = ViewBag.ReturnUrl;
+}
+
+<div class="d-flex justify-content-center align-items-center" style="height:70vh">
+    <div class="col-6 rounded p-4" style="min-height:300px">
+        <h1 class="mb-3 text-danger">Access Denied!</h1>
+        <p>
+            <partial name="_AuthNavPartial" />
+        </p>
+    </div>
+</div>

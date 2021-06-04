@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Registration confirmation page";
+    Layout = "_Layout.cshtml";
+
+    var link = "";
+    var username = "";
+    if(!string.IsNullOrWhiteSpace(ViewBag.Link))
+    {
+        link =  ViewBag.Link;
+    }
+    
+    if(!string.IsNullOrWhiteSpace(ViewBag.Username))
+    {
+        username =  ViewBag.Username;
+    }
+}
+
+<div class="d-flex justify-content-center align-items-center" style="height:70vh">
+    <div class="border col-4 rounded p-4" style="min-height:300px">
+        <h1 class="mb-3">Congratulations @username!</h1>
+        <p>
+            Your account has been successfully created, but you have to activate
+            it before it can be used.
+            <p>
+                click to <a href="@link">activate</a>
+            </p>
+        </p>
+    </div>
+</div>

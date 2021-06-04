@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Account confirmation page";
+    Layout = "_Layout.cshtml";
+
+    var username = "";
+    if(!string.IsNullOrWhiteSpace(ViewBag.UserName))
+    {
+        username = ViewBag.UserName;
+    }
+
+    var errMsg = "";
+    if (!string.IsNullOrWhiteSpace(ViewBag.ErrorMessage))
+    {
+        errMsg = ViewBag.ErrorMessage;
+    }
+}
+
+<div class="d-flex justify-content-center align-items-center" style="height:70vh">
+    <div class="border col-4 rounded p-4" style="min-height:300px">
+        @if (errMsg == "")
+        {
+            <h1 class="mb-3">Congratulations @username!</h1>
+            <p>
+                Your account has been successfully confirmed and activated! ☺.
+            </p>
+        }
+        else
+        {
+            <p>
+                @errMsg
+            </p>
+        }
+    </div>
+</div>

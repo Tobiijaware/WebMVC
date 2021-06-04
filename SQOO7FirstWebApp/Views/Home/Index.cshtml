@@ -1,0 +1,27 @@
+﻿@model IEnumerable<EmployeeViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="d-flex">
+    @foreach (var emp in Model)
+    {
+        <div class="card mr-2 col-4">
+            <div class="card-body">
+                <div class="d-flex justify-content-center align-items-center">
+                    <img asp-append-version="true" src="@emp.Photo" alt="@emp.Name" style="min-width:98%"/>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div>
+                    ID: @emp.Id     Name: @emp.Name
+                </div>
+            </div>
+        </div>
+    }
+</div>
